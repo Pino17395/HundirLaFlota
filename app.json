@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Hundir la Flota",
+    "slug": "hundir-la-flota",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": { "backgroundColor": "#071827" },
+    "android": { "package": "com.hundirlaflota.app", "edgeToEdgeEnabled": true },
+    "ios": { "supportsTablet": true }
+  }
+}
